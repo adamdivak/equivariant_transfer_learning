@@ -70,6 +70,6 @@ If you find the code useful, please cite it as
   title={(Even More) Efficient Equivariant Transfer Learning from Pretrained Models},
   author={Mikhail Vlasenko and Ádám Divák and Iason Skylitsis and Milan Miletić and Zoe Tzifa-Kratira},
   year={2024},
-  note={Work in progress}
+  url={https://github.com/adamdivak/equivariant_transfer_learning}
 }
 ```
